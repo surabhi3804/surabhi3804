@@ -5,13 +5,13 @@
 
 🎓 **B.Tech Student passionate about Software Development & Artificial Intelligence**
 
-🧠 Currently building **Agentic AI Healthcare Monitoring System**
+🧠 Currently building **SkillFolio-Smart Resume and Portfolio Builder**
 
 ⚙️ Interested in **Backend Architecture, AI Agents, and System Design**
 
 🏆 **Regular participant in Hackathons & Tech Challenges**
 
-📚 Currently learning **LangGraph, Advanced Backend Development, and LLM Workflows**
+
 
 
 
